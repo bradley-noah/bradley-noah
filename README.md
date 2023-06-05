@@ -1,15 +1,15 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 
-<h1 align="center">Hi 👋, I'm Noah Bradley</h1>
-<h3 align="center">A passionate software developer from Pittsburgh, Pennsylvania</h3>
+<h1 align="center">Hi, I'm Noah Bradley</h1>
+<h3 align="center">A passionate software developer from Pittsburgh, PA</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/gist/MedRedha/fd8e2481bde2610c96b9aafde543879c/raw/88624e8d31c4295973dcb7c900dacf0edc0a6d99/coding.gif">
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952201d4c41ff6accfbb125486942af43f68d768d26&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **Django Website**
+- 🔭 I’m currently working on **a Personal Website**
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on **Machine Learning/AI**
+- 👯 I’m looking to collaborate on **Machine Learning/AI Projects**
 
 - 💬 Ask me about **Game Design, Java**
 
