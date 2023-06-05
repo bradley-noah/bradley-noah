@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952201d4c41ff6accfbb125486942af43f68d768d26&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
 
-- 🔭 I’m currently working on **a Personal Website**
+- 🔭 I’m currently working on ** Personal Website**
 
 - 🌱 I’m currently learning **Django**
 
