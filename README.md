@@ -1,6 +1,6 @@
 [![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)]()
 
-<h1 align="center">Hi, I'm Noah Bradley</h1>
+<h1 align="center">Hi, I'm Noah Bradley 1</h1>
 <h3 align="center">A passionate software developer from Pittsburgh, PA</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952201d4c41ff6accfbb125486942af43f68d768d26&ep=v1_internal_gifs_gifId&rid=giphy.gif&ct=g">
